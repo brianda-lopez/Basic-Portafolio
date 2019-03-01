@@ -1,0 +1,65 @@
+   
+#body{
+     background-color: #ffffff;
+
+}
+#main-header{
+     height: 150px;
+
+}
+#header{
+    margin-left: auto; 
+    margin-right: auto;
+    width: 67%;
+    height: 100%; 
+    background-color: #777777;
+    
+}
+#name{
+    background-color:#4aaaa5;
+    text-align: left;
+    color: whitesmoke;
+    font-size: 20px;
+    float: left;
+    height: 100%
+}
+#Nav{
+    text-align: left;
+    color: grey;
+    float: right;
+    height: 100%
+}
+.list{
+    float: right;
+    font-size-adjust: 15px;
+    color: white;
+}
+#main{
+    background-color: blueviolet;
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 18px;
+    border-image-outset: 5rem;
+    width: 960px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+table {
+       background-color: purple;
+}
+th {
+    font-size: 25px;
+
+}
+
+#bar{ color: green;
+    text-align: center;
+    height: 100px;
+}
+#footer{
+    background-color: #666666;
+    text-align: center;
+    color: grey
+    height: 300px;
+}
